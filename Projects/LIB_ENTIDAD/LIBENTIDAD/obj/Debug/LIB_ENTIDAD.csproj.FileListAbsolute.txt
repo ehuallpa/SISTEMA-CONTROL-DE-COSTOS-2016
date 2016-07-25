@@ -1,0 +1,4 @@
+C:\Users\elhuallpan\documents\visual studio 2010\Projects\LIB_ENTIDAD\LIBENTIDAD\bin\Debug\LIBENTIDAD.dll
+C:\Users\elhuallpan\documents\visual studio 2010\Projects\LIB_ENTIDAD\LIBENTIDAD\bin\Debug\LIBENTIDAD.pdb
+C:\Users\elhuallpan\documents\visual studio 2010\Projects\LIB_ENTIDAD\LIBENTIDAD\obj\Debug\LIBENTIDAD.dll
+C:\Users\elhuallpan\documents\visual studio 2010\Projects\LIB_ENTIDAD\LIBENTIDAD\obj\Debug\LIBENTIDAD.pdb

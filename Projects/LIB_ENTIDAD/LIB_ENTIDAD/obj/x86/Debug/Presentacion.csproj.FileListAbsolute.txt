@@ -1,0 +1,15 @@
+C:\Users\elhuallpan\documents\visual studio 2010\Projects\LIB_ENTIDAD\LIB_ENTIDAD\bin\Debug\LIB_ENTIDAD.exe
+C:\Users\elhuallpan\documents\visual studio 2010\Projects\LIB_ENTIDAD\LIB_ENTIDAD\bin\Debug\LIB_ENTIDAD.pdb
+C:\Users\elhuallpan\documents\visual studio 2010\Projects\LIB_ENTIDAD\LIB_ENTIDAD\obj\x86\Debug\ProyectoFacturas.Form1.resources
+C:\Users\elhuallpan\documents\visual studio 2010\Projects\LIB_ENTIDAD\LIB_ENTIDAD\obj\x86\Debug\ProyectoFacturas.Properties.Resources.resources
+C:\Users\elhuallpan\documents\visual studio 2010\Projects\LIB_ENTIDAD\LIB_ENTIDAD\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\elhuallpan\documents\visual studio 2010\Projects\LIB_ENTIDAD\LIB_ENTIDAD\obj\x86\Debug\LIB_ENTIDAD.exe
+C:\Users\elhuallpan\documents\visual studio 2010\Projects\LIB_ENTIDAD\LIB_ENTIDAD\obj\x86\Debug\LIB_ENTIDAD.pdb
+C:\Users\elhuallpan\Documents\Visual Studio 2010\Projects\LIB_ENTIDAD\LIB_ENTIDAD\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\elhuallpan\Documents\Visual Studio 2010\Projects\LIB_ENTIDAD\LIB_ENTIDAD\bin\Debug\LIB_ENTIDAD.exe.config
+C:\Users\elhuallpan\Documents\Visual Studio 2010\Projects\LIB_ENTIDAD\LIB_ENTIDAD\bin\Debug\LIBENTIDAD.dll
+C:\Users\elhuallpan\Documents\Visual Studio 2010\Projects\LIB_ENTIDAD\LIB_ENTIDAD\bin\Debug\LIB_DATOS.dll
+C:\Users\elhuallpan\Documents\Visual Studio 2010\Projects\LIB_ENTIDAD\LIB_ENTIDAD\bin\Debug\LIB_NEGOCIO.dll
+C:\Users\elhuallpan\Documents\Visual Studio 2010\Projects\LIB_ENTIDAD\LIB_ENTIDAD\bin\Debug\LIBENTIDAD.pdb
+C:\Users\elhuallpan\Documents\Visual Studio 2010\Projects\LIB_ENTIDAD\LIB_ENTIDAD\bin\Debug\LIB_DATOS.pdb
+C:\Users\elhuallpan\Documents\Visual Studio 2010\Projects\LIB_ENTIDAD\LIB_ENTIDAD\bin\Debug\LIB_NEGOCIO.pdb

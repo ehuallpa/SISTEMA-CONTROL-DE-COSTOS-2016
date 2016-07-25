@@ -1,0 +1,7 @@
+C:\Users\elhuallpan\documents\visual studio 2010\Projects\LIB_ENTIDAD\LIB_NEGOCIO\bin\Debug\LIB_NEGOCIO.dll
+C:\Users\elhuallpan\documents\visual studio 2010\Projects\LIB_ENTIDAD\LIB_NEGOCIO\bin\Debug\LIB_NEGOCIO.pdb
+C:\Users\elhuallpan\documents\visual studio 2010\Projects\LIB_ENTIDAD\LIB_NEGOCIO\obj\Debug\LIB_NEGOCIO.dll
+C:\Users\elhuallpan\documents\visual studio 2010\Projects\LIB_ENTIDAD\LIB_NEGOCIO\obj\Debug\LIB_NEGOCIO.pdb
+C:\Users\elhuallpan\Documents\Visual Studio 2010\Projects\LIB_ENTIDAD\LIB_NEGOCIO\bin\Debug\LIB_DATOS.dll
+C:\Users\elhuallpan\Documents\Visual Studio 2010\Projects\LIB_ENTIDAD\LIB_NEGOCIO\bin\Debug\LIB_DATOS.pdb
+C:\Users\elhuallpan\Documents\Visual Studio 2010\Projects\LIB_ENTIDAD\LIB_NEGOCIO\obj\Debug\LIB_NEGOCIO.csprojResolveAssemblyReference.cache

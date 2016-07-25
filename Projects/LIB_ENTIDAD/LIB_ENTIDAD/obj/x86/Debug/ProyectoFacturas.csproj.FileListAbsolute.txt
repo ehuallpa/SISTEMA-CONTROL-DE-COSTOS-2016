@@ -1,0 +1,7 @@
+C:\Users\elhuallpan\AppData\Local\Temporary Projects\ProyectoFacturas\bin\Debug\ProyectoFacturas.exe
+C:\Users\elhuallpan\AppData\Local\Temporary Projects\ProyectoFacturas\bin\Debug\ProyectoFacturas.pdb
+C:\Users\elhuallpan\AppData\Local\Temporary Projects\ProyectoFacturas\obj\x86\Debug\ProyectoFacturas.Form1.resources
+C:\Users\elhuallpan\AppData\Local\Temporary Projects\ProyectoFacturas\obj\x86\Debug\ProyectoFacturas.Properties.Resources.resources
+C:\Users\elhuallpan\AppData\Local\Temporary Projects\ProyectoFacturas\obj\x86\Debug\ProyectoFacturas.csproj.GenerateResource.Cache
+C:\Users\elhuallpan\AppData\Local\Temporary Projects\ProyectoFacturas\obj\x86\Debug\ProyectoFacturas.exe
+C:\Users\elhuallpan\AppData\Local\Temporary Projects\ProyectoFacturas\obj\x86\Debug\ProyectoFacturas.pdb

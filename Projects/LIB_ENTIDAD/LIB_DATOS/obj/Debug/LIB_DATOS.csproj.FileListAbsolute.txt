@@ -1,0 +1,4 @@
+C:\Users\elhuallpan\documents\visual studio 2010\Projects\LIB_ENTIDAD\LIB_DATOS\bin\Debug\LIB_DATOS.dll
+C:\Users\elhuallpan\documents\visual studio 2010\Projects\LIB_ENTIDAD\LIB_DATOS\bin\Debug\LIB_DATOS.pdb
+C:\Users\elhuallpan\documents\visual studio 2010\Projects\LIB_ENTIDAD\LIB_DATOS\obj\Debug\LIB_DATOS.dll
+C:\Users\elhuallpan\documents\visual studio 2010\Projects\LIB_ENTIDAD\LIB_DATOS\obj\Debug\LIB_DATOS.pdb
